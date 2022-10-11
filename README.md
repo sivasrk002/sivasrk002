@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Data Science, Big Data**
 
+- 💬 Ask me about **ML,DL,Python,SQL**
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
