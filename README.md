@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science, Big Data**
 
-- 💬 Ask me about **ML,DL,Python,SQL**
+- 💬 Ask me about **ML,DL,Python,SQL,R**
 
 - ⚡ Fun fact **I am Funny**
 
