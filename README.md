@@ -25,7 +25,7 @@ The main objective of this data science personal project portfolio is to demonst
 <a href="https://kaggle.com/sivasrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sivasrk" height="30" width="40" /></a>
 </p>
 
-<img align="left" alt="GIF" width="40%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" /> 
+<img align="right" alt="GIF" width="40%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" /> 
 
 <p>
 
