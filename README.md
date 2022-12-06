@@ -1,6 +1,6 @@
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science
 
-![logo]([https://static.wixstatic.com/media/a27d24_16bbdb1ff1594bb6bc7f5649f07c1781~mv2.gif](https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?w=1060&t=st=1670329507~exp=1670330107~hmac=8f1cb628b5a3ecabf2bdac4ab8ab3422710f9090565fcbc7a377d105522a772d))
+![logo](https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif)
 
 <h1 align="center">Hi 👋, I'm Sivaramakrishnan</h1>
 <h3 align="center">Data Science Enthusiast</h3>
