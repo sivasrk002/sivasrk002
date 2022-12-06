@@ -1,4 +1,9 @@
-<img align="center" alt="GIF" width="40%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />
+The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science
+
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 <h1 align="center">Hi 👋, I'm Sivaramakrishnan</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
