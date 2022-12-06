@@ -24,7 +24,7 @@ The main objective of this data science personal project portfolio is to demonst
 <a href="https://www.linkedin.com/in/sivaramakrishnan-uthayakumar-1701121a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivaramakrishnan uthayakumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/sivasrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sivasrk" height="30" width="40" /></a>
 <a href="mailto:sivasrk002@gmail.com" target="blank">
-  <img align="center" alt="Siva's Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> height="30" width="40" /> &nbsp; &nbsp;
+  <img align="center" alt="Siva's Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /> &nbsp; &nbsp;
  </a>
 
 <h3 align="left">Languages and Tools:</h3>
