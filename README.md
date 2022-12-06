@@ -1,4 +1,4 @@
-![logo](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
+![logo](https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sivaramakrishnan</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
