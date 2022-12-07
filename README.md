@@ -47,6 +47,12 @@ The main objective of this data science personal project portfolio is to demonst
 
 ## 📊 My GitHub Data:
 
+</p>
+
+<img align="right" alt="GIF" width="25%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" /> 
+
+<p>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasrk002&show_icons=true&locale=en" alt="sivasrk002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasrk002&" alt="sivasrk002" /></p>
