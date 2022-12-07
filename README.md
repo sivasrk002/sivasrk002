@@ -12,9 +12,13 @@ The main objective of this data science personal project portfolio is to demonst
 
 <p align="left"> <a href="https://twitter.com/sivasrk002" target="blank"><img src="https://img.shields.io/twitter/follow/sivasrk002?logo=twitter&style=for-the-badge" alt="sivasrk002" /></a> </p>
 
+## 👨🏻‍💻 About Me:
+
 - 🌱 I’m currently learning **Big Data**
 
 - 💬 Ask me about **ML,DL,Python,SQL,R**
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact **I am Funny**
 
